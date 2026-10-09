@@ -1,0 +1,19 @@
+.DS_Store
+.build/
+.swiftpm/
+work/
+__pycache__/
+*.py[cod]
+outputs/*
+!outputs/README.md
+!outputs/DEMO.md
+!outputs/VERIFICATION.md
+!outputs/Output-Tray-Product.md
+!outputs/register-output.py
+!outputs/demo-create.py
+!outputs/Launch Output Tray.command
+!outputs/Live Outputs/
+outputs/Live Outputs/*
+!outputs/Live Outputs/brief.md
+!outputs/Live Outputs/tray-mark.svg
+!outputs/Live Outputs/.output-tray.json
